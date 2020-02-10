@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "zh-Hans"
 title = "errgou的博客"
-theme = "ananke"
+theme = "hugo-theme-air"
