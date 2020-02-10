@@ -111,7 +111,7 @@ Press Ctrl+C to stop
 ![网站配置](/images/6.png)
 打开初始文件夹当中的: config.toml
 ~~~
-baseURL = "https://example.org/"
+baseURL = "https://liqiyi.xyz/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
