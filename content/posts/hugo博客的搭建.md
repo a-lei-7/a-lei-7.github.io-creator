@@ -27,15 +27,15 @@ draft: true
 ### 之后可以按照hugo官网给出的指示一步步完成配置信息
 点击“Quick Start”
 
-![主页图片](/static/images/主页.png)
+![主页图片](/images/主页.png)
 
 #### 第一步：安装并配置环境变量（这一步已经执行）
 
-![配置变量](/static/images/1.png)
+![配置变量](/images/1.png)
 
 #### 第二步：建立一个属于博客的文件夹
 
-![建立文件夹](/static/images/2.png)
+![建立文件夹](/images/2.png)
 
     hugo new site quickstart
 
@@ -43,7 +43,7 @@ draft: true
 
 
 #### 第三步：下载主题
-![配置本地仓库](/static/images/3.png)
+![配置本地仓库](/images/3.png)
 
     cd 刚才的目录
     git init
@@ -56,7 +56,7 @@ draft: true
 3. 然后配置它
 
 #### 第四步：建立一个页面
-![建立页面](/static/images/4.png)
+![建立页面](/images/4.png)
 
     hugo new posts/博客主题.md
 
@@ -73,7 +73,7 @@ draft: true
 写完之后记得将上方的"draft: true"更改为：" draft: false"
 
 #### 第五步 ：启动hugo服务器
-![服务器](/static/images/5.png)
+![服务器](/images/5.png)
 
 在命令行内输入以下代码：
 
@@ -108,7 +108,7 @@ Press Ctrl+C to stop
 即可在网页当中打开刚才编辑的博客
 
 #### 第六步：自定义网站配置
-![网站配置](/static/images/6.png)
+![网站配置](/images/6.png)
 打开初始文件夹当中的: config.toml
 ~~~
 baseURL = "https://example.org/"
@@ -126,7 +126,7 @@ theme = "ananke"
     theme = "ananke"
 
 可以在官网的[主题区](https://themes.gohugo.io/),选择心仪的主题
-![theme](/static/images/theme.png)
+![theme](/images/theme.png)
 
 点击进去，找到下面这样的下载链接：
 
@@ -143,7 +143,7 @@ theme = "ananke"
 将"ananke"更换为新下载的主题名称，再重新运行即可。
 
 #### 第七步：保存静态页面
-![建立静态页面](/static/images/7.png)
+![建立静态页面](/images/7.png)
 
 在命令行运行
 
@@ -217,11 +217,11 @@ theme = "ananke"
     GitHub Pages
     ，如果下方没有下图绿色提示
 
-![提示](/static/images/8.png)
+![提示](/images/8.png)
 
 可如此设置
 
-![设置](/static/images/git.png)
+![设置](/images/git.png)
 
 之后点击绿色内部的链接，即可浏览博客内容
 
@@ -233,7 +233,7 @@ theme = "ananke"
 
 [https://www.namesilo.com/](https://www.namesilo.com/)
 
-![namesilo](/static/images/namesilo.png)
+![namesilo](/images/namesilo.png)
 
 可以在中间的搜索框，输入自己心仪的字符串，来查找对应的域名存在与否和价格情况
 
@@ -241,17 +241,17 @@ theme = "ananke"
 
 选好域名然后添加购物车。
 
-![域名](../../static/images/yuming.png)
+![域名](../../images/yuming.png)
 
 这个选择 
     no
  会便宜一些
 
-![选择](../../static/images/no.png)
+![选择](../../images/no.png)
 
 再之后进入付款的界面：
 
-![支付](../../static/images/zhifu.png)
+![支付](../../images/zhifu.png)
 
 选择支付宝，旁边输入支付宝安全邮箱，再之后完成支付即可。
 
@@ -259,10 +259,10 @@ theme = "ananke"
 
     Manage My Domains
 
-![seting](../../static/images/seting.png)
+![seting](../../images/seting.png)
 管理域名，点击蓝色的球
 
-![ip地址配置](../../static/images/AAAA.png)
+![ip地址配置](../../images/AAAA.png)
 
 点击单个
     “A”
@@ -274,7 +274,7 @@ theme = "ananke"
 还是在存放public的仓库，点击
     setting
 
-![配置IP](../../static/images/配置ip.png)
+![配置IP](../../images/配置ip.png)
 
 在框内输入刚刚购买的域名，点击
     Save
@@ -282,11 +282,11 @@ theme = "ananke"
 
     Learn more.
 
-![gitpage1](../../static/images/gitpage1.png)
+![gitpage1](../../images/gitpage1.png)
 
 然后点击第二个
 
-![gitpage2](../../static/images/gitpage2.png)
+![gitpage2](../../images/gitpage2.png)
 
 翻到这里，然后将下面的这四个地址，分别添加到之前在
     namesilo
