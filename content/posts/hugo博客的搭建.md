@@ -27,7 +27,7 @@ draft: true
 ### 之后可以按照hugo官网给出的指示一步步完成配置信息
 点击“Quick Start”
 
-![主页图片](/static/images/主页.png)
+![主页图片](/images/主页.png)
 
 #### 第一步：安装并配置环境变量（这一步已经执行）
 
