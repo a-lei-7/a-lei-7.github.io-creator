@@ -1,7 +1,7 @@
 ---
 title: "Hugo博客的搭建"
 date: 2020-02-10T20:09:03+08:00
-draft: true
+draft: false
 ---
 
 ## 通过Hugo 和 Git，搭建一个属于自己的博客
