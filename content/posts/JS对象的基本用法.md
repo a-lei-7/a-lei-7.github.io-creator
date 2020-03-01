@@ -120,4 +120,4 @@ let obj = Object.create(common) //将这个隐藏属性 common 通过 Object.cre
 //这样obj就被赋予了新的隐藏属性，之后可以再向 obj 内写入值
 ```
 
-![示例](/img/示例.png)
+![示例](/images/示例.png)
